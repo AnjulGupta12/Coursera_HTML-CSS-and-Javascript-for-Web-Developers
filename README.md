@@ -12,7 +12,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 3
 * [Assignment description]( https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 * [Basic Solution (without most of the optional parts)](https://anjulgupta12.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module3/index.html)
-* [Full Solution (including all the optional parts)](https://anjulgupta12.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module3_solution/index.html)
+* [Full Solution (including all the optional parts)](https://anjulgupta12.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module3_solution/index.html)
 
 ### Module 4
 * [Assignment description](./descriptions/assignment4/Assignment-4.md)
