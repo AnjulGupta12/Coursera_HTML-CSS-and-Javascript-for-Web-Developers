@@ -21,5 +21,5 @@ This repository contains my solutions to the assignments of the Coursera course
 
 
 ### Module 5
-* [Assignment description](./descriptions/assignment5/Assignment-5.md)
+* [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
 * [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module5_solution/)
