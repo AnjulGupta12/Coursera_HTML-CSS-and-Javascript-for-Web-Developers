@@ -17,7 +17,8 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 4
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module4_solution/)
+* [Solution](https://anjulgupta12.github.io/Coursera_HTML-CSS-and-Javascript-for-Web-Developers/module4/index.html)
+
 
 ### Module 5
 * [Assignment description](./descriptions/assignment5/Assignment-5.md)
